@@ -62,7 +62,8 @@
     "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) overthink",
     "deploy:github": "yarn build && node ./scripts/deploy-github",
     "dry": "yarn build && cp now.json public/ && cd public && now",
-    "js-to-jsx": "node src/utils/js-to-jsx"
+    "js-to-jsx": "node src/utils/js-to-jsx",
+    "git-deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "husky": {
     "hooks": {
