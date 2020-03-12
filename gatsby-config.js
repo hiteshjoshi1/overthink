@@ -9,7 +9,7 @@ module.exports = {
       twitter: '@joshi_ji',
     },
   },
-  pathPrefix: '/',
+  pathPrefix: '/overthink',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

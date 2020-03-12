@@ -1,9 +1,9 @@
-# [overreacted.io](https://overreacted.io/)
+My personal blog.  
+- Forked from [Dan Abramov] https://github.com/gaearon/overreacted.io
+- Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). 
+- Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
 
-My personal blog.  Forked from [Dan Abramov] https://github.com/gaearon/overreacted.io
-Forked from [Gatsby blog starter](https://github.com/gatsbyjs/gatsby-starter-blog). Syntax theme based on [Sarah Drasner's Night Owl](https://github.com/sdras/night-owl-vscode-theme/) with small tweaks.
-
-All awesome styles - credit goes to Dan.
+All awesome code - credit goes to Dan.
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
