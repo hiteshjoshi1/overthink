@@ -31,43 +31,24 @@ class About extends React.Component {
                 />
               </div>
               <div className={styles.textCenter}>
-                <h1>Hitesh Joshi</h1>
-                <h2>Developer - Seller - Failed philosopher - Human </h2>
-
+                <h2>Hitesh Joshi</h2>
                 <hr />
               </div>
               <div className={styles.aboutMe}>
                 <p>
-                  I am passionate about coding and public speaking. I like to
-                  read but evidently I dont read enough. I like to write and
-                  have made sporadic forays over the years. I hope to be
-                  consistent this time around. I enjoy running, swimming and not
-                  averse to a fair bit of travel. I am learning to sell and
-                  enjoying it. I am from a small town in Uttarakhand, India. I
-                  live in Singapore.
+                  I want to write about technology, investing, creating wealth,
+                  living a fullfilling life and parenting. I will document the
+                  ideas that I am having, things that I have read and liked,
+                  future predictions and crazy ideas.
+                  <br />
+                  This site as a medium of self expression and very much a WIP,
+                  a diary for my future self and a way to communicate to
+                  posterity. I am sure I will derieve some value from writing my
+                  thoughts here and I can only hope that a reader will derieve
+                  some value from reading it.
                 </p>
                 <p>
-                  You may want to check out my{' '}
-                  <a target="_blank" href={resume}>
-                    Resume{' '}
-                  </a>{' '}
-                  or
-                  <a
-                    target="_blank"
-                    href="https://github.com/hiteshjoshi1?tab=repositories"
-                  >
-                    {' '}
-                    code{' '}
-                  </a>{' '}
-                  or my{' '}
-                  <a
-                    href="https://www.linkedin.com/in/hiteshjoshi1/"
-                    target="_blank"
-                  >
-                    {' '}
-                    LinkedIn
-                  </a>{' '}
-                  or hobnob with me on{' '}
+                  Hobnob with me on{' '}
                   <a target="_blank" href="https://twitter.com/joshi_ji">
                     Twitter
                   </a>
