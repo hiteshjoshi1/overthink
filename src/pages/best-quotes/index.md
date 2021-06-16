@@ -1,5 +1,5 @@
 ---
-title: 'Aphorisms & proverbs'
+title: 'Not to publish'
 date: '2020-04-01'
 spoiler: Running log of quotes that I love
 ---
