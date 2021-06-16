@@ -95,6 +95,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const siteTitle = get(this.props, 'data.site.siteMetadata.title');
+    console.log(post);
     let {
       previous,
       next,
@@ -162,9 +163,25 @@ class BlogPostTemplate extends React.Component {
                   marginTop: rhythm(-4 / 5),
                 }}
               >
-                {formatPostDate(post.frontmatter.date, lang)}
-                {` • ${formatReadingTime(post.timeToRead)}`}
+                {' '}
+                {post.frontmatter.version
+                  ? `Version - ${post.frontmatter.version}`
+                  : ''}{' '}
+                {`  ${formatReadingTime(post.timeToRead)}`} <br />
+                First published - {formatPostDate(
+                  post.frontmatter.date,
+                  lang
+                )}{' '}
+                &nbsp;
+                {post.frontmatter.updatedate
+                  ? `Updated - ${formatPostDate(
+                      post.frontmatter.updatedate,
+                      lang
+                    )}`
+                  : ''}{' '}
+                <br />
               </p>
+
               {translations.length > 0 && (
                 <Translations
                   translations={translations}
@@ -268,7 +285,9 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        updatedate(formatString: "MMMM DD, YYYY")
         spoiler
+        version
       }
       fields {
         slug

@@ -24,14 +24,6 @@ class Footer extends React.Component {
           twitter
         </a>{' '}
         &bull;{' '}
-        <a
-          href="https://github.com/hiteshjoshi1"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          github
-        </a>{' '}
-        &bull;{' '}
       </footer>
     );
   }

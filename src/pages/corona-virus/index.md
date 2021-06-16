@@ -2,6 +2,7 @@
 title: 'Impact of Corona Virus'
 date: '2020-03-21'
 spoiler: First order effects
+version: 1.0
 ---
 
 
