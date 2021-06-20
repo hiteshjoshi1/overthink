@@ -16,6 +16,9 @@ I heard the phrase first from Tyler Cowen, when Shane Parish(fs.blog) interviewe
 Socrates said -
 
  ```"The only true wisdom is in knowing that you know nothing."```
+ 
+![Socrates](https://user-images.githubusercontent.com/5917216/122661468-47e2c480-d1bd-11eb-8a99-0dbef4546de3.jpeg)
+
 
 We all have a world view, a set of beliefs, mental models. Sometimes these beliefs are carefully choosen by us, sometimes they are assimiliated through social norms and sometimes we don't even know we have them and how we got them.
 Like any kind of knowledge, our world view is almost always incomplete. Modesty is needed to acknowledge that there are and always will be gaps in one's knowledge. If you want to learn and grow, accepting the limits of your current knowledge is not enough. We need to go a step further and be open to change our thinking, knowledge, world view whenever we receive evidence contrary to our beliefs. 
