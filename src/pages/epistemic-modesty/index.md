@@ -17,7 +17,7 @@ Socrates said -
 
  ```"The only true wisdom is in knowing that you know nothing."```
  
-![Socrates](https://user-images.githubusercontent.com/5917216/122661468-47e2c480-d1bd-11eb-8a99-0dbef4546de3.jpeg)
+![Socrates](./Socrates.jpeg)
 
 
 We all have a world view, a set of beliefs, mental models. Sometimes these beliefs are carefully choosen by us, sometimes they are assimiliated through social norms and sometimes we don't even know we have them and how we got them.
