@@ -2,98 +2,109 @@
 title: 'Epistemic Modesty'
 date: '2020-03-10'
 spoiler: Do you have it?
-updatedate: '2021-06-16'
-version: 1.1
+updatedate: '2021-06-22'
+version: 1.2
 ---
 
 ```
 Epistemic - “relating to knowledge or to the degree of its validation”  
 ```
-Fancy word, isn’t it? 
+Damn, that's a fancy phrase. 
+I take no credit for it, I am over my fancy word phase. I heard it first in a Shane Parish podcast from his guest Tyler Cowen.  
 
-I heard the phrase first from Tyler Cowen, when Shane Parish(fs.blog) interviewed him for his podcast.  Fancy language aside, the idea is simple and centuries old. 
-
-Socrates said -
+The idea is not new at all and is quite important and often forgotten or misunderstood. Here is what the cool dude of antiquity, Socrates, had to say about human knowledge -
 
  ```"The only true wisdom is in knowing that you know nothing."```
- 
+
 ![Socrates](./Socrates.jpeg)
 
 
-We all have a world view, a set of beliefs, mental models. Sometimes these beliefs are carefully choosen by us, sometimes they are assimiliated through social norms and sometimes we don't even know we have them and how we got them.
-Like any kind of knowledge, our world view is almost always incomplete. Modesty is needed to acknowledge that there are and always will be gaps in one's knowledge. If you want to learn and grow, accepting the limits of your current knowledge is not enough. We need to go a step further and be open to change our thinking, knowledge, world view whenever we receive evidence contrary to our beliefs. 
+In simple words, I  would say it is personal and intellectual humility.
+Whether we are aware of it or not, we all have a world view. We all have a set of beliefs about how the world works.  Sometimes we have thought about these beliefs, examined them and sometimes we have just assimiliated them through societal norms.  Our world view ranges from incomplete to downright wrong in most cases. And that is why we need the intellectual modesty to acknowledge the limits of our knowledge, examine our belief system regularly and change it if it is wrong.  
 
-It is however necessary to consciously formulate a world view that helps us navigate the complexities of modern life. In this article I am trying to define the foundational mental models that I find most appealing right now. I hope to enlarge, add and edit  this list as I grow and learn.
+Socrates again popped into my head and said
 
-Starting with what to avoid -
-## Take Action NOW
-If there is a problem in life (of health, relationship, business, career or investing), the time to act is NOW.
-You realized that you are neglecting your health - act now. You realized that you are neglecting your relationships, apologize now and make up for it. You made a disastrous investment, own it up and book losses - live to fight another day. A personal habit is dragging you down, quit now  cold turkey.
+ ```"An unexamined life is not worth living"```
+
+Here I am going to define some of the ideas, mental models that I find worth learning, practising and internalising.
+
 
 ## Avoid ruin situations
 ```A lot of success in business and in life comes from knowing what you want to avoid - Charlie Munger```
 
-Anything that ruins your health(drugs, diseases). More importantly anything that ruins your reputation, stay miles away. Reputation is far more important than money, it is built slowly and is lost in a second. In all dealings in life, you should never have to ask the question is this legal?
-Avoid people you do not respect or have questionable ethics. Remember there is always collateral damage.
-Always remember elementary math, a billion multiplied by zero is still zero.
+Let's start with what to avoid. Healthwise avoiding any avoidable diseases like obeseity, STDs,COVID (may be) and stay clear from addictive drugs. 
+Guarding your reputation from things like corruption, cheating and all the other deadly sins. Reputation is bigger currency than money, it is built slowly and is lost in a second. If you have to ask, is this legal? Don't do it. 
 
-## Avoiding hedonistic treadmills
-With abundance of food and now the internet , we are running on hedonistic treadmills which give us regular shots of dopamine and serotonin.  Streaming services, social media, mobile games, online shopping are cleverly crafted mechanisms to keep you engaged in perpetuity. We often neglect what is important because binge watching that latest episode or tweeting yet another update feels so good.  
-Live consciously and try to avoid these treadmills because it is very hard to get off once you are on it.
+```Not crossing the line is not enough, we need to work in a way that we should never have to ask where the line is.```
 
-## Compounding
-Remember the power of compounding and use it for your good. 
-Compounding for learning
-Read more, learn more, and as you read more the benefits that you reap won’t just add up, they compound.
+Avoid people you do not respect or have questionable ethics. A billion multiplied by zero is still zero.
 
-### Compounding of money/ investment
-The most straightforward and measurable of them all.
-
-### Compounding for Health
-We don’t deposit money in a fixed deposit and take it out on the next day. The same is with a daily regimen, exercise, healthy diet or yoga. Do it daily and let the effects compound.
-
-### Compounding for relationships
-If you deposit consistently in your relationships by being there, they will compound. If you don’t they will wither away, sometimes slowly and often completely.
-
-### Be on the right side of compounding
-Compounding, as all great forces have a dark side too, it will work against you if you are on the wrong side of it. All negative things compound too and often their rate of compounding is significantly higher then anything positive. Beware of negative compounding effects on your health, relationships and reputation. 
 
 ## Keep losses in the right perspective
 
-Given that losses loom larger than wins in human psyche, loss avoidance can make you do stupid things.If you have the right mental constitution, FUD(fear, uncertainty and doubt) is your friend.
-Remember “Losses are inevitable” so try focussing on Winning the WAR not every battle.
-It is also important to “Know the difference between bad decisions and bad outcomes.” There is a significant difference between a bad decision in light of facts and a good decision that happened to have a bad outcome.
+Losses loom larger than wins in human psyche. That is we are more motivated to avoid losses than to achieve gains. Trying to avoid losses can make us do outright stupid things. Like averaging an asset when the decission of buying it in the first place was either stupid or wrong. Understanding sunk costs is important here.
+Expending a good asset(money, time, emotions) after a bad asset is a recipe of disaster. 
+
+ ```Losses are inevitable``` so we try to win the WAR not every battle.
+
+It is however important to ```Know the difference between bad decisions and bad outcomes```
+A good decission can have a bad outcome. A bad decission can sometimes have a good outcome if we are lucky. We should consciously evaluate our decissions and if a good decission lead to a bad outcome, that is life.
+
+## Avoiding hedonistic treadmills
+With internet, gaming, social media, content streaming services we are running on hedonistic treadmills which give us regular shots of dopamine and serotonin.  Content is crafted very cleverly to keep us engaged in perpetuity. Content these days is like a well made candy with the right mix of salt and sugar that never really satiates you.
+This is a form of escapism, a way to avoid questions that our inner voice keeps asking. You can live your entire life avoiding it but I wager that won't be a very satisfying life. It is ok to not have answers. It is ok to not live upto every ideal. Get comfortable with discomfort, learn to enjoy free time, your own company, your relationships. 
+
+
+## Act Now
+If there is a problem in life (of health, relationship, business, career or investing) the time to act is now.
+- You realized that you are neglecting your health - act now. 
+- You realized that you are neglecting your relationships, apologize and make up for it - now.
+- You made an asset purchase that was a mistake, own it up and book loss - now.
+- A personal habit is dragging you down, quit it. Go cold turkey - now.
+
 
 ## Use Consistency Principle to your advantage
 
 ```“A man uses his  behavior to tell him about himself. It is one of the primary source of beliefs, values and attitudes” - Robert Cialdini(paraphrased) ``` 
 
 We form a self image consistent with our actions. If you want to change the way you think about yourself, start associating with a new identity even when you are not actually there. 
-You will initially feel like a fraud but your mind will actually start building a new self image which is consistent with your new actions and before you know your behavior will change and the adopted identity becomes the new normal. This is called consistency principle of self image.
+You will initially feel like a fraud but your mind will actually start building a new self image which is consistent with your new actions and before you know your behavior will change and the adopted identity becomes the new normal. This is the consistency principle of self image.
 
-Consistency principle works on the dark side too, associate with stupid things, bad behavior and your self image will deteriorate and you will start to believe that you are actually worthless.
+Consistency principle works on the dark side too, associate with stupid things and bad behavior and your self image will deteriorate and you will start to believe that you are actually worthless.
+
+## Rules work better for discipline
+
+Have very few inviolable rules and never break them. Example I work out every day. A rule is an auto piolot, there is no decission to be made, no will power is needed. The bright side is nobody argues with rules, you don't even argue with your own rules once they are set. If you have a rule that you don't eat dessert or that you don't drink beer no one will request you to do otherwise.
+
+## Compounding
+Remember the power of compounding and use it for your good. Compounding, as all great forces have a dark side too. It will work against you if you are on the wrong side of it. All negative things compound too and often their rate of compounding is significantly higher than anything positive. Beware of negative compounding effects on your health, relationships, debt and reputation. 
+
+### Compound for learning
+Read more and diverse. Write if you want to compound your learning and sharpen your ideas. If you want to take it a notch higher teach it to somebody.
+
+### Compound your money/ assets
+Think enough has been said about this.
+
+### Compounding for Health
+Exercise, meditation and routine benefits only show up with consistency. I struggle with this alot. I have a plan to get a lot better.
+
+### Compounding for relationships
+If you deposit consistently in your relationships by being there, they will compound. If you don’t they will wither away, sometimes slowly and often completely.
+
 
 ## Regression to the mean
-Things regress to the mean, they always do. High performance and poor performance both regress to the mean. So taper your expectations from companies, from your children and the world at large when they are doing good and be optimistic when they are doing bad. And most importantly forecast the future keeping regression and its effects in mind.
+Things regress to the mean, they always do. High performance and poor performance both regress to the mean. So taper your expectations from companies, from your children and the world at large when they are doing good and be optimistic when they are doing bad. And most importantly forecast the future keeping effects of regression in mind.
 
-## Algorithms are better than us in most cases
-Well, this is not about computers beating human grandmasters in Chess or AI taking over. But about our fallibility as decission makers. Humans are loss averse, emotional and unpredictable. No human is a rational agent. We do not follow the laws we have made for ourselves. We are terrible in predicting outcomes, have many documented and unknown biases. We often ignore the base case and regression in estimating things in the name of a gut feeling.
-It is better to use algorithms to make important decisions. This not only means programmed algorithms, but also following a sequence of predefined steps to arrive at a decision. 
+## Use algorithms in your life
+Humans can be emotional, unpredictable, irrational, loss averse and greedy. No human is a rational agent. We do not even follow the laws we have made for ourselves. We are affected by our moods, herd mentality and social norms. We are terrible in predicting outcomes, we have many documented and undocumented biases.
 
-Example, while interviewing a new hire, score her at different predetermined parameters (Technical competence, Communication, Empathy, Culture fit). These parameters could have pre determined weight in calculating the final score. The algorithm calculates the final score and if the interviewee’s final score crosses a threshold, hire her.
+We can use algorithms to aid us in making important decisions. This not only means using computer code to help us, but also following a sequence of predefined steps to arrive at a decision. 
+
+Example, while interviewing a new hire, score him at different predetermined parameters (Technical competence, Communication, Empathy, Culture fit etc). These parameters could have pre determined weight in calculating the final score. Assign weights individually and calculate overall score. If the overall score is higher than a preset cutoff hire the applicant. 
+
 
 ## Social Proof and its effects
 ```When all think alike, no one thinks very much.```
     - Walter Lippman
 
-Social proof is valuable. Life would be too hard without it, but herd mentality is dangerous. There is a serious flaw in the reasoning that says if so many people are doing it , it must be right. 
-In matters of great importance, moral or financial, examine the social proof and make your own decisions.
-
-
-## Know your circle of competence and pound away
-We often do not play to our strengths and build on our innate talents and competencies. Try to find work, any work which does not feel like work and then pound away.
-
-
-
-
-
+Social proof is valuable. We want to do know what our brethren is doing. Life has been so much better now that we have product reviews for almost everything we buy. We need to examine the behavior of groups and be on guard against herd mentality. There is a serious flaw in the argument that says if so many people are doing it, it must be right. In matters of great importance, examine the social proof and then make your own decision.
