@@ -2,15 +2,18 @@
 title: 'Impact of Corona Virus'
 date: '2020-03-21'
 spoiler: First order effects
-version: 1.0
+version: 1.2
+updatedate: '2021-06-24'
 ---
 
 
+*In hindsight, most of the predictions here proved right. But I missed the biggest prediction of them all. The quantitative easing/stimulus for pandemic and its affect on assets prices across countries and asset classes. Did I benefit enough from the insights below? Probably not. One thing is for certain, the writing style in this piece sucked.*
+
 
 ### 1. Volatility and FUD in stock markets and in crypto.
-Lets remember - do not try to time the markets. Do not predict. Do not put your life savings into it. If you are sitting on cash invest in companies with cash in balance sheets, solid management and decent P/E.
+I love acronmys and Fear, Uncertaninity, and Doubt (FUD) is one of my favorites. Lets remember - do not try to time the markets. Do not predict. Do not put your life savings into it. If you are sitting on cash invest in companies with cash in balance sheets, solid management and decent P/E.
 Book losses in companies whose operating performance have worsened and you were just holding.  
-*FUD - Fear, Uncertainity and Doubt.
+
 ### 2. Increased Netflix sales, new users joining in.
 If you have the dough, buy in.
 ### 3. Increased Amazon, Alibaba, Lazada, Flipkart sales, people buying more remotely.
@@ -52,7 +55,7 @@ Overall very positive , specially for countries like India. Online learning cont
 ### 25. Discretionary spending going down- tourism, IT, consumer durables etc.
 ### 26. Impact on handshakes
 Some people, I hope many will use this as an excuse to completely do away with handshakes. I prefer to switch to Namaste.Fist bump , elbow bump is an ok compromise too. It is time we let go off this unsanitary custom. 
-#END_HANDSHAKES
+END_HANDSHAKES
 
 
 

@@ -2,8 +2,8 @@
 title: 'Epistemic Modesty'
 date: '2020-03-10'
 spoiler: Do you have it?
-updatedate: '2021-06-22'
-version: 1.2
+updatedate: '2021-06-24'
+version: 1.3
 ---
 
 ```
@@ -32,8 +32,8 @@ Here I am going to define some of the ideas, mental models that I find worth lea
 ## Avoid ruin situations
 ```A lot of success in business and in life comes from knowing what you want to avoid - Charlie Munger```
 
-Let's start with what to avoid. Healthwise avoiding any avoidable diseases like obeseity, STDs,COVID (may be) and stay clear from addictive drugs. 
-Guarding your reputation from things like corruption, cheating and all the other deadly sins. Reputation is bigger currency than money, it is built slowly and is lost in a second. If you have to ask, is this legal? Don't do it. 
+This is really about what kind of risks to take. There are additive risks (+/-) or multiplicative risks( multiply by 0). You probably want to take a lot of additive risks where the odds are slightly in your favor. You defintely want to avoid all multiplicative risk. 
+Example of additive risk would be putting your money in Apple stock. Example of multiplicative risk could be reputation risk, health risk - obeseity, STDs,COVID (may be) and addictive drugs. Reputation is bigger currency than money, it is built slowly and is lost in a second. If you have to ask, is this legal? Don't do it. 
 
 ```Not crossing the line is not enough, we need to work in a way that we should never have to ask where the line is.```
 
@@ -52,7 +52,7 @@ A good decission can have a bad outcome. A bad decission can sometimes have a go
 
 ## Avoiding hedonistic treadmills
 With internet, gaming, social media, content streaming services we are running on hedonistic treadmills which give us regular shots of dopamine and serotonin.  Content is crafted very cleverly to keep us engaged in perpetuity. Content these days is like a well made candy with the right mix of salt and sugar that never really satiates you.
-This is a form of escapism, a way to avoid questions that our inner voice keeps asking. You can live your entire life avoiding it but I wager that won't be a very satisfying life. It is ok to not have answers. It is ok to not live upto every ideal. Get comfortable with discomfort, learn to enjoy free time, your own company, your relationships. 
+High dependence on social media, steaming services is a way to avoid questions that our inner voice keeps asking. You can live your entire life avoiding it but I wager that won't be a very satisfying life. It is ok to not have answers. It is ok to not live upto every ideal. Get comfortable with discomfort, learn to enjoy free time, your own company, your relationships. 
 
 
 ## Act Now
@@ -72,9 +72,10 @@ You will initially feel like a fraud but your mind will actually start building 
 
 Consistency principle works on the dark side too, associate with stupid things and bad behavior and your self image will deteriorate and you will start to believe that you are actually worthless.
 
-## Rules work better for discipline
+## Rules work better than self discipline
 
-Have very few inviolable rules and never break them. Example I work out every day. A rule is an auto piolot, there is no decission to be made, no will power is needed. The bright side is nobody argues with rules, you don't even argue with your own rules once they are set. If you have a rule that you don't eat dessert or that you don't drink beer no one will request you to do otherwise.
+I struggle with self discipline. Based on reading and experience, what works for me is having very few rules and never break them. Example of such a rule could be I work out every day or I don't eat dessert. A rule is a decission already made, no will power needed to be mustered. Rules harden and become habits very soon and then you are in auto pilot. 
+Another bright side of having rules is nobody argues with rules, you don't even argue with your own rules once they are set. If you have a rule that you you don't drink beer no one will request you to do otherwise.
 
 ## Compounding
 Remember the power of compounding and use it for your good. Compounding, as all great forces have a dark side too. It will work against you if you are on the wrong side of it. All negative things compound too and often their rate of compounding is significantly higher than anything positive. Beware of negative compounding effects on your health, relationships, debt and reputation. 
